@@ -1,0 +1,23 @@
+{
+  "name": "simple-login-tailwind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "buildcss": "npx tailwindcss build src/tailwind.css -o style/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dikaMuharman/simple-login-tailwind.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dikaMuharman/simple-login-tailwind/issues"
+  },
+  "homepage": "https://github.com/dikaMuharman/simple-login-tailwind#readme",
+  "dependencies": {
+    "tailwindcss": "^1.9.6"
+  }
+}
